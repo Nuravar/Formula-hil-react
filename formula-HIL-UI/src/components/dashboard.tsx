@@ -51,7 +51,7 @@ const Dashboard = () => {
                     <Text fontFamily="Geist Mono" fontSize="12px" display={{base:"none", md:"flex"}}>01/29/23:</Text>
                     <Text fontFamily="Geist Mono" size="sm">Test 2</Text>
                     <Spacer/>
-                    <Text fontFamily="Geist Mono" pr="2.5"><Spinner size='xs' mr="2.5"/>In Queue</Text>
+                    <Text fontFamily="Geist Mono" pr="2.5"><Spinner size='xs' mr="2.5"/>In the Queue</Text>
                     <Text fontFamily="Geist Mono" textColor={formulaRed}>Cancel</Text>
                 </HStack>
                 <Divider w="98%" bgColor="black"/>
